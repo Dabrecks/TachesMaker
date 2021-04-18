@@ -1,7 +1,7 @@
 # Projet TâchesMaker
 
 ## Projet :boom:
-Est une application qui permet de suivre l'avancement des tâches quotidiennes. Elle offre la possibilité de consulter les tâches actuelles et de les marquer complétées ou urgentes. Il est aussi possible de créer ou suprimer une tâche en plus de choisir une date où elles devraient être complétées.
+Est une application qui permet de suivre l'avancement des tâches quotidiennes. Elle offre la possibilité de consulter les tâches actuelles et de les marquer complétées ou urgentes. Il est aussi possible de créer ou supprimer une tâche en plus de choisir une date où elles devraient être complétées.
 	  
 ## Technologies :rocket:
 Ce projet utilise:
